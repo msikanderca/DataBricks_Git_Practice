@@ -1,1 +1,2 @@
 New text file added for testing
+Adding new line.
